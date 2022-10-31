@@ -1,4 +1,4 @@
-## Symphony v0.01
+# Symphony v0.01
 IEEE BPIT Project
 
 
