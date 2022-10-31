@@ -7,11 +7,18 @@ Symphony is a computer vision based project that allows you to play music throug
 * We have used Tkinter to provide a user interface to the participant to make the game more interactive by making dynamic pop-ups for windows like "Game-Over" and "Game-Begins" and providing them options to select their preferred in-game-music.
 
 
-## Language Used: Python
+## Language Used: 
+Python: Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.  It supports multiple programming paradigms, including structured, object-oriented and functional programming.
 
 
 
 
 
 
-## Libraries Used: OpenCV Tkinter Aruko Sound
+## Libraries Used: 
+* OpenCV: OpenCV is a library of programming functions mainly aimed at real-time computer vision.
+* NumPy: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+* Matplotlib: Matplotlib is a plotting library for the Python programming language and it provides an object-oriented API for embedding plots.
+* PlaySound: The playsound module is a cross platform module that can play audio files.
+* MediaPipe: Mediapipe is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks.
+* OS: The OS module in Python provides functions for interacting with the operating system.
