@@ -21,4 +21,4 @@ Python: Python is a high-level, general-purpose programming language. Its design
 * Matplotlib: Matplotlib is a plotting library for the Python programming language and it provides an object-oriented API for embedding plots.
 * PlaySound: The playsound module is a cross platform module that can play audio files.
 * OS: The OS module in Python provides functions for interacting with the operating system.
-*Tkinter: Tkinter in Python is used to create Graphical User interfaces (GUIs) and is included in all standard Python Distributions.
+* Tkinter: Tkinter in Python is used to create Graphical User interfaces (GUIs) and is included in all standard Python Distributions.
