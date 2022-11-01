@@ -22,3 +22,4 @@ Python: Python is a high-level, general-purpose programming language. Its design
 * PlaySound: The playsound module is a cross platform module that can play audio files.
 * OS: The OS module in Python provides functions for interacting with the operating system.
 * Tkinter: Tkinter in Python is used to create Graphical User interfaces (GUIs) and is included in all standard Python Distributions.
+* PyGame: Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
